@@ -1,2 +1,3 @@
-# 2xKunkaBox-Bootstrap
-Bootstrap code for starting up Gentoo home driver
+# Gentoo Daily Driver Bootstrap
+
+Bootstrap code + resourcess for starting up Gentoo home driver
